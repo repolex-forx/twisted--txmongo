@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/txmongo/commit/128c88151fa43cfa2503293ebf3e4a700587eb3d",
       "git:hexsha": "128c88151fa43cfa2503293ebf3e4a700587eb3d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T03:04:34.659154+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/txmongo/commit/10f3f78a3b9f470710220289690f5592b7a97109",
